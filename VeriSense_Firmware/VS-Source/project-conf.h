@@ -22,7 +22,7 @@
 #ifndef		PROJECT_CONF_H_
 #define		PROJECT_CONF_H_
 
-#define		RF_CORE_CONF_CHANNEL						26
+#define		RF_CORE_CONF_CHANNEL						24
 #define		FW_VERSION									"2.1.0"
 
 //-----------------------------------------------------------------------------
